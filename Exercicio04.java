@@ -11,7 +11,7 @@ public class Exercicio04 {
 		 *  deverá ser a raiz quadra do respectivo elemento de A, ou seja:
 		 *   B[i] = Math.sqrt(A[i]).*/
 		Scanner ler = new Scanner(System.in);
-		double [] vetorA = new double [5];
+		double [] vetorA = new double [15];
 		double [] vetorB = new double [vetorA.length];
 		
 		for(int i=0;i<vetorA.length;i++) {

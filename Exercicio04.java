@@ -34,11 +34,5 @@ public class Exercicio04 {
 		for(int i=0;i<vetorB.length;i++) {
 			System.out.print(decimalFormat.format(vetorB[i])+" = ");
 		}
-		
-		
-
 	}
-
-	
-
 }
